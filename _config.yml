@@ -1,8 +1,8 @@
 # Site settings
 title: helfa safitri
 description: 'Mahasiswa Universitas Islam Negeri Sultan Syarif Kasim, Riau'
-description: 'program studi : sistem informasi'
-description: 'fakultas : sain dan teknologi'
+ 'program studi : sistem informasi'
+ 'fakultas : sain dan teknologi'
 url: 'http://helfasafitri.github.io'
 baseurl: '/helfasafitri.github.io/'
 # google_analytics: 'UA-XXXXXX-X'
