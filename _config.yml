@@ -9,12 +9,12 @@ baseurl: '/helfasafitri.github.io/'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Mahasiswa Sistem Informasi Uin Suska Riau - Powered by Jekyll Uno'
+  email: helfasafitri@gmail.com
+  twitter_username: @helfha
+  facebook_username: helfha syafitry
+  github_username:  helfasafitri
+  linkedin_username:  helfasafitri
 
 defaults:
   -
