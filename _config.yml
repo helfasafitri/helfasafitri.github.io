@@ -1,8 +1,8 @@
 # Site settings
 title: helfa safitri
-description:   '<p> Mahasiswa Sistem informasi T.A 2014 </p>
-                <p> Fakultas : Sain dan Teknologi </p>
-               <p> Universitas  Islam Negeri Sultan Syarif Kasim Riau </p>'
+description:   '<p>Mahasiswa Sistem informasi</p>
+                <p>Fakultas : Sain dan Teknologi</p>
+               <p>Universitas  Islam Negeri Sultan Syarif Kasim Riau</p>'
 url: 'http://helfasafitri.github.io'
 baseurl: '/helfasafitri.github.io/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -12,10 +12,10 @@ baseurl: '/helfasafitri.github.io/'
 author:
   name: 'Mahasiswa Sistem Informasi Uin Suska Riau - Powered by Jekyll Uno'
   email: helfasafitri@gmail.com
-  twitter_username: @helfha
+  twitter_username: helfha
   facebook_username: helfha syafitry
   github_username:  helfasafitri
-  linkedin_username:  helfasafitri
+  
 
 defaults:
   -
