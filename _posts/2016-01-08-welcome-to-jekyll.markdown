@@ -1,10 +1,17 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Welcome to profil !"
 date:   2016-01-08 15:04:23
-categories: [jekyll]
-tags: [jekyll]
+categories: [HELFA]
+tags: [HELFA]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+Nama : HELFA SAFITRI
+tempat/tgl lahir : PULAU DUIT, 13-02-1996
+Jenis kelamin: PEREMPUAN
+Alamat: Jl.TAMAN KARYA, perumahan TAMAN KARYA INDAH blog.E no.19
+Agama: ISLAM dong
+Pekerjaan: MAHASISWA Universitas Islam Negeri Sultan Syarif Kasim Riau
+Cerita saya: 
+ saya adalah seseorang mahasiswa yang hidup merantau
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
