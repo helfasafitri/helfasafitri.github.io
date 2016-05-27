@@ -5,7 +5,7 @@ categories: [HELFA]
 tags: [HELFA]
 ---
 Nama : HELFA SAFITRI
-tempat/tgl lahir : PULAU DUIT, 13-02-1996
+`<p> tempat/tgl lahir : PULAU DUIT, 13-02-1996 </p>`
 Jenis kelamin: PEREMPUAN
 Alamat: Jl.TAMAN KARYA, perumahan TAMAN KARYA INDAH blog.E no.19
 Agama: ISLAM dong
