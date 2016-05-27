@@ -4,33 +4,40 @@ description:   '<p>Mahasiswa Sistem informasi TA 2014</p>
                 <p>Fakultas : Sain dan Teknologi</p>
                <p>Universitas  Islam Negeri Sultan Syarif Kasim Riau</p>'
 url: 'http://helfasafitri.github.io'
+baseurl: '/helfasafitri.github.io/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
 
+author:
+  name: 'helfasafitri'
+  email: helfasafitri@gmail.com
+  twitter_username: helfha
+  facebook_username: helfha syafitry
+  github_username:  helfasafitri
+  linkedin_username:  helfasafitri
+  uin suska: http://uin-suska.ac.id/
+  sif uin: http://sif.uin-suska.ac.id/
 
-# Delete the lines you don't need
-# about 5 elements are recomended
-github_username:  helfasafitri
-facebook_username: helfha syafitry
-twitter_username: helfha 
-instagram_username : helfasafitri
-
-
-avatar: yes
-#avatar_img_path: "imgs/avatar.jpg""
-# You can link to your GitHub image. That way it will get updated
-# automatically whenever you change your GitHub profile picture
-avatar_img_path: "https://scontent-sin1-1.xx.fbcdn.net/v/t1.0-9/1011487_609127092441704_2049131311_n.jpg?oh=24b7603782c26666e9966c263ded15f7&oe=57D852C1"
-
-
-front_img: yes
-front_img_path: "http://images.fondecranhd.net/rivers/hlvdo2aarvn.jpg"
-#front_img_path: "https://external.url/image.jpg"
-
-
-favicon_img: yes
-favicon_img_path: "https://fairyandfunny.files.wordpress.com/2014/09/c01a9-bungateratai.jpg?w=533&h=362"
-#favicon_img_path: "https://external.url/favicon.ico"
-
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
 
 # Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
 markdown: kramdown
-permalink: pretty
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
